@@ -1,33 +1,33 @@
-# Calculus I
-
-Area: Projects-No-Code
+# opn-calculus-i
 
 Drive source: https://drive.google.com/drive/folders/1-4cZx5mxbZILs3v-Qk1Rvt-NkIti_Gmw
 
-Purpose: Old Portafolio non-code/publication project evidence. Use this repo for inspectable documents/source; use Drive for bulky original media and archives.
+Purpose: cleaned old Portafolio repository with documents separated for future reuse and Overleaf conversion.
 
-## Included Top-Level Items
+## Main Directories
 
+- [`papers/`](./papers/README.md) - Research papers, papers, proposals, theses, and publication-like materials.
+- [`reports/`](./reports/README.md) - Reports, lab reports, assignments, final-project writeups, and documentation.
+- [`presentations/`](./presentations/README.md) - Presentations, slides, and posters.
+
+## Top-Level Items
+
+- `papers/` (folder)
+- `presentations/` (folder)
+- `reports/` (folder)
 - `.gitignore` (file)
 - `116 HW 1.rtf` (file)
-- `Assignment#2 Math.docx` (file)
 - `DRIVE_OVERVIEW.md` (file)
 - `Factor into binomials.docx` (file)
 - `IMPORT_NOTES.md` (file)
 - `Math Given three credit card scenarios.docx` (file)
-- `Math's Assignments.docx` (file)
-- `Math's Homework 2.docx` (file)
-- `Math's Homework, Trigonometry.docx` (file)
-- `Math's Homework.docx` (file)
 - `Math's Project, Peter.docx` (file)
 - `Math's Project.xlsx.docx` (file)
 - `Math's Project333.xlsx` (file)
 - `Math.docx` (file)
 
-## Drive-Only Material
+## Organization Notes
 
-Large videos, archives, installers, and media are kept in Drive.
-
-## Directory Coverage
-
-Every included directory has a `README.md` index.
+- Large binaries, installers, media, and archives may remain in Google Drive and be referenced from `IMPORT_NOTES.md` or `DRIVE_OVERVIEW.md`.
+- Each included directory has a `README.md` index.
+- `papers/`, `reports/`, and `presentations/` are intentionally separated so later Overleaf work can start from a clean source bucket.
