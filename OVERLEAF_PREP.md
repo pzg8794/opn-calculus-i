@@ -1,24 +1,19 @@
-# Overleaf Preparation
+<!-- AUTO-GENERATED-PORTFOLIO-README -->
+# Overleaf Prep
 
-Repository: `opn-calculus-i`
+Paper, report, and presentation files imported into GitHub are grouped here for later Overleaf conversion.
 
-Drive source: https://drive.google.com/drive/folders/1-4cZx5mxbZILs3v-Qk1Rvt-NkIti_Gmw
+## Reports
 
-## Classified Material Counts
-
-- `papers/`: 0 file(s)
-- `reports/`: 5 file(s)
-- `presentations/`: 0 file(s)
-
-## Conversion Workflow
-
-1. Start with source files in `papers/`, `reports/`, or `presentations/`.
-2. Prefer existing `.tex` files when present.
-3. For `.doc`, `.docx`, `.rtf`, `.ppt`, or `.pptx`, convert into LaTeX/Beamer later and keep the original in its current directory.
-4. Use PDFs as reference outputs, not editable sources, unless no source document exists.
-
-## Move Summary
-
-- Moved into `papers/`: 0 file(s) in this cleanup pass
-- Moved into `reports/`: 5 file(s) in this cleanup pass
-- Moved into `presentations/`: 0 file(s) in this cleanup pass
+- `reports/116 HW 1.rtf`
+- `reports/Assignment#2 Math.docx`
+- `reports/Factor into binomials.docx`
+- `reports/Math Given three credit card scenarios.docx`
+- `reports/Math's Assignments.docx`
+- `reports/Math's Homework 2.docx`
+- `reports/Math's Homework, Trigonometry.docx`
+- `reports/Math's Homework.docx`
+- `reports/Math's Project, Peter.docx`
+- `reports/Math's Project.xlsx.docx`
+- `reports/Math's Project333.xlsx`
+- `reports/Math.docx`
